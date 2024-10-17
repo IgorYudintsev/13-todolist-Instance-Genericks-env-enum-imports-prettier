@@ -1,0 +1,8 @@
+-Instance
+-Genericks,
+-.env
+-Enum,
+-imports
+-Prettier
+yarn add --dev --exact prettier
+Settings-Tools-Actions on Save-Run Prettier-Configuration-Automatic
